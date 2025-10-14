@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# API Keys and Secrets
+*.key
+*.pem
+.anthropic_api_key
+*api_key*
+
+# Results and outputs
+all_debates_results_*/
+balanced_debates_*/
+combined_analysis/
+*.png
+*.csv
+*.json
+results/
+output/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+format_single_file.py
+token_calculator.py
+example_usage.py
+updated_example.py
+
+configs/9fd42a3fa030924b76a9955db3bf5a10/.
