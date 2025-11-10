@@ -28,7 +28,7 @@ class ClaudeDebateClient:
     """Claude API client optimized for debate simulation"""
     
     def __init__(self, api_key: str, model: str = "claude-3-5-sonnet-20241022"):
-        self.client = Anthropic(api_key=api_key)
+        # self.client = Anthropic(api_key=api_key)
         self.model = model
         self.debate_format = DebateFormat()
         
@@ -57,7 +57,7 @@ class ClaudeDebateClient:
                 logger.info(f"Generating {speech_type.value} speech (attempt {attempt + 1})")
                 
                 response = await asyncio.to_thread(
-                    self.client.messages.create,
+                    # self.client.messages.create,
                     model=self.model,
                     max_tokens=context.persona.max_tokens,
                     temperature=context.persona.temperature,

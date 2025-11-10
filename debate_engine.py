@@ -14,7 +14,7 @@ import pandas as pd
 
 from debate_formats import ParliamentaryDebate, Speech, SpeechType, DebateFormat
 from llm_personas import LLMPersona, PersonaLibrary
-from claude_client import ClaudeDebateClient, DebateContext
+from ai_service import ClaudeDebateService, DebateContext
 
 
 @dataclass
@@ -39,8 +39,8 @@ class DebateResult:
 class DebateEngine:
     """Core engine for running Parliamentary debates"""
     
-    def __init__(self, claude_client: ClaudeDebateClient, persona_library: PersonaLibrary):
-        self.claude_client = claude_client
+    def __init__(self, claude_service: ClaudeDebateService, persona_library: PersonaLibrary):
+        self.claude_service = claude_service
         self.persona_library = persona_library
         self.debate_format = DebateFormat()
         
@@ -98,7 +98,7 @@ class DebateEngine:
                 speech_start = time.time()
                 try:
                     speech_content = await asyncio.wait_for(
-                        self.claude_client.generate_speech(context, speech_type),
+                        self.claude_service.generate_speech(context, speech_type),
                         timeout=config.timeout_per_speech
                     )
                     
@@ -127,7 +127,7 @@ class DebateEngine:
             judge_start = time.time()
             
             winner, reasoning = await asyncio.wait_for(
-                self.claude_client.judge_debate(topic, debate.speeches),
+                self.claude_service.judge_debate(topic, debate.speeches),
                 timeout=config.timeout_per_speech
             )
             

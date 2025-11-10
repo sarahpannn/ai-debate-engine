@@ -59,9 +59,11 @@ balanced_debates_*/
 combined_analysis/
 *.png
 *.csv
-*.json
 results/
 output/
+all_debates_results_20251013_173433/*
+balanced_debates_20251013_213432/*
+configs/9fd42a3fa030924b76a9955db3bf5a10/*
 
 # Logs
 *.log
@@ -80,3 +82,8 @@ configs/9fd42a3fa030924b76a9955db3bf5a10/.
 *.sql
 
 rag_meta/pdfs/*
+
+test_simple_rag_debate.py
+test_toolloop.py
+
+debate_results/visualizations/*
