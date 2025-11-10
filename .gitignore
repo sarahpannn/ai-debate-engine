@@ -76,3 +76,7 @@ example_usage.py
 updated_example.py
 
 configs/9fd42a3fa030924b76a9955db3bf5a10/.
+
+*.sql
+
+rag_meta/pdfs/*
