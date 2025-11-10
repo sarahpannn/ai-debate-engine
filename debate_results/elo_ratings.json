@@ -5,20 +5,20 @@
     {
       "persona_id": "ai_risk_bear",
       "debate_name": "ai_existential",
-      "rating": 1489.71,
-      "games_played": 4,
-      "wins": 2,
-      "losses": 2,
-      "win_rate": 0.5
-    },
-    {
-      "persona_id": "ai_augmentation_bull",
-      "debate_name": "ai_existential",
-      "rating": 1492.13,
+      "rating": 1465.88,
       "games_played": 5,
       "wins": 2,
       "losses": 3,
       "win_rate": 0.4
+    },
+    {
+      "persona_id": "ai_augmentation_bull",
+      "debate_name": "ai_existential",
+      "rating": 1515.97,
+      "games_played": 6,
+      "wins": 3,
+      "losses": 3,
+      "win_rate": 0.5
     },
     {
       "persona_id": "monetization_skeptic",

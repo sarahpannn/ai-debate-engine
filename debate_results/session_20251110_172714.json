@@ -1,9 +1,9 @@
 {
   "start_time": 1762813634.1400268,
-  "debates_completed": 15,
-  "total_words_generated": 33593,
-  "total_tokens_used": 47794,
-  "runtime_seconds": 2799.5174100399017,
+  "debates_completed": 16,
+  "total_words_generated": 36083,
+  "total_tokens_used": 51242,
+  "runtime_seconds": 3003.9733271598816,
   "results": [
     {
       "timestamp": "2025-11-10T17:30:06.265263",
@@ -424,11 +424,11 @@
       "opposition_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1492.13,
-        "games_played": 5,
-        "wins": 2,
+        "rating": 1515.97,
+        "games_played": 6,
+        "wins": 3,
         "losses": 3,
-        "win_rate": 0.4
+        "win_rate": 0.5
       }
     },
     {
@@ -699,11 +699,11 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1492.13,
-        "games_played": 5,
-        "wins": 2,
+        "rating": 1515.97,
+        "games_played": 6,
+        "wins": 3,
         "losses": 3,
-        "win_rate": 0.4
+        "win_rate": 0.5
       },
       "opposition_rating": {
         "persona_id": "productivity_neutralist",
@@ -912,11 +912,11 @@
       "government_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1489.71,
-        "games_played": 4,
+        "rating": 1465.88,
+        "games_played": 5,
         "wins": 2,
-        "losses": 2,
-        "win_rate": 0.5
+        "losses": 3,
+        "win_rate": 0.4
       },
       "opposition_rating": {
         "persona_id": "integration_pragmatist",
@@ -983,20 +983,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1492.13,
-        "games_played": 5,
-        "wins": 2,
+        "rating": 1515.97,
+        "games_played": 6,
+        "wins": 3,
         "losses": 3,
-        "win_rate": 0.4
+        "win_rate": 0.5
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1489.71,
-        "games_played": 4,
+        "rating": 1465.88,
+        "games_played": 5,
         "wins": 2,
-        "losses": 2,
-        "win_rate": 0.5
+        "losses": 3,
+        "win_rate": 0.4
       }
     },
     {
@@ -1068,6 +1068,77 @@
         "wins": 1,
         "losses": 1,
         "win_rate": 0.5
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:17:18.113138",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_augmentation_bull",
+      "opposition_persona": "ai_risk_bear",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01ProZydP4vXu4aSjjHs7tpX', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based case that effectively countered the Opposition\\'s arguments through superior use of financial data, stronger logical reasoning, and more effective refutation.\\n\\n**Argument Quality and Evidence Usage:**\\nThe Government consistently leveraged GitLab\\'s actual financial performance data to support their position....",
+      "duration_seconds": 202.44983506202698,
+      "total_words": 2490,
+      "total_tokens": 3448,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 451,
+          "token_count": 618,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to firmly reject the motion before us. The Government's position is clear: AI coding assistants will not reduce GitLab..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 429,
+          "token_count": 594,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to expose the fundamental flaw in the Prime Minister's rosy narrative. While the Government celebrates GitLab's current margins, the..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 369,
+          "token_count": 524,
+          "content_preview": "**The Opposition's Automation Fallacy Crumbles Under Financial Scrutiny**\n\nThe Leader of Opposition cherry-picks job posting data while ignoring GitLab's actual financial performance. According to Git..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 392,
+          "token_count": 546,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nThe Government Member's financial cherry-picking cannot obscure the fundamental structural threat facing GitLab's seat-based model. While they celebrate quarterly ..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 426,
+          "token_count": 582,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to deliver the decisive blow to the Opposition's crumbling case. Their arguments collapse under the weight of GitLab's own financial per..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 423,
+          "token_count": 584,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the final word on why this House must support the motion. The Government's case crumbles when confronted with the harsh reali..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1515.97,
+        "games_played": 6,
+        "wins": 3,
+        "losses": 3,
+        "win_rate": 0.5
+      },
+      "opposition_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1465.88,
+        "games_played": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_rate": 0.4
       }
     }
   ]
