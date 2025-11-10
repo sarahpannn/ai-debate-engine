@@ -1,5 +1,7 @@
 # Our Retrieval Augmented Generation (RAG) System
 
+<img src="diagram.png" alt="RAG System Diagram" width="600px"/>
+
 Our pipeline augments debate-style LLM agents with grounded evidence from a vector RAG database. We embed documents (via the Gemini Embeddings API) and store them in a vector database. We supply our debater LLMs with the tools necessary to query the database and retrieve documents that are relevant to aiding their argumentation. A separate Judge LLM scores the arguments on a rubric that we define; agents are then Elo-ranked to surface the strongest standpoints in debates around the stock.
 
 # Content in this RAG Database

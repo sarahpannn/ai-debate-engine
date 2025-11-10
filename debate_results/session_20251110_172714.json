@@ -1,9 +1,9 @@
 {
   "start_time": 1762813634.1400268,
-  "debates_completed": 16,
-  "total_words_generated": 36083,
-  "total_tokens_used": 51242,
-  "runtime_seconds": 3003.9733271598816,
+  "debates_completed": 17,
+  "total_words_generated": 38406,
+  "total_tokens_used": 54511,
+  "runtime_seconds": 3204.973180294037,
   "results": [
     {
       "timestamp": "2025-11-10T17:30:06.265263",
@@ -424,11 +424,11 @@
       "opposition_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1515.97,
-        "games_played": 6,
-        "wins": 3,
+        "rating": 1536.53,
+        "games_played": 7,
+        "wins": 4,
         "losses": 3,
-        "win_rate": 0.5
+        "win_rate": 0.571
       }
     },
     {
@@ -699,11 +699,11 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1515.97,
-        "games_played": 6,
-        "wins": 3,
+        "rating": 1536.53,
+        "games_played": 7,
+        "wins": 4,
         "losses": 3,
-        "win_rate": 0.5
+        "win_rate": 0.571
       },
       "opposition_rating": {
         "persona_id": "productivity_neutralist",
@@ -912,11 +912,11 @@
       "government_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1465.88,
-        "games_played": 5,
+        "rating": 1445.31,
+        "games_played": 6,
         "wins": 2,
-        "losses": 3,
-        "win_rate": 0.4
+        "losses": 4,
+        "win_rate": 0.333
       },
       "opposition_rating": {
         "persona_id": "integration_pragmatist",
@@ -983,20 +983,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1515.97,
-        "games_played": 6,
-        "wins": 3,
+        "rating": 1536.53,
+        "games_played": 7,
+        "wins": 4,
         "losses": 3,
-        "win_rate": 0.5
+        "win_rate": 0.571
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1465.88,
-        "games_played": 5,
+        "rating": 1445.31,
+        "games_played": 6,
         "wins": 2,
-        "losses": 3,
-        "win_rate": 0.4
+        "losses": 4,
+        "win_rate": 0.333
       }
     },
     {
@@ -1125,20 +1125,91 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1515.97,
-        "games_played": 6,
-        "wins": 3,
+        "rating": 1536.53,
+        "games_played": 7,
+        "wins": 4,
         "losses": 3,
-        "win_rate": 0.5
+        "win_rate": 0.571
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1465.88,
-        "games_played": 5,
+        "rating": 1445.31,
+        "games_played": 6,
         "wins": 2,
+        "losses": 4,
+        "win_rate": 0.333
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:20:39.112592",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_risk_bear",
+      "opposition_persona": "ai_augmentation_bull",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01Cu4L8bVZGPatYLrqYKFhhp', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition delivered a more compelling and evidence-based argument that effectively countered the Government\\'s core claims. Here\\'s my detailed analysis:\\n\\n**1. Strength of Arguments and Evidence:**\\nThe Opposition presented stronger, more comprehensive evidence:\\n- Cited official Bureau of Labor Statistics data projecting 25% growth in software developer employment thro...",
+      "duration_seconds": 198.9886326789856,
+      "total_words": 2323,
+      "total_tokens": 3269,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 424,
+          "token_count": 572,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that AI coding assistants will fundamentally undermine GitLab's seat-based revenue model, creating an existen..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 428,
+          "token_count": 613,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to fundamentally challenge the Prime Minister's flawed premise. The Government's argument rests on a dangerous misunderstanding of A..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 370,
+          "token_count": 515,
+          "content_preview": "**The Financial Evidence is Damning**\n\nThe Opposition's rosy projections crumble under scrutiny of GitLab's own financial disclosures. GitLab's 2025 Conference Transcript reveals their desperate ackno..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 327,
+          "token_count": 485,
+          "content_preview": "**The Government's Cherry-Picked Data Collapses Under Scrutiny**\n\nThe Member of Government's selective quotations deliberately obscure GitLab's actual financial performance. GitLab's 2026 First Quarte..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 382,
+          "token_count": 520,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why this House must support our motion. The evidence presented by my Government colleagues is overwhelming, and the Oppos..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 392,
+          "token_count": 564,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's fundamentally flawed motion. The evidence overwhelmingly demonstrates that AI coding as..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1445.31,
+        "games_played": 6,
+        "wins": 2,
+        "losses": 4,
+        "win_rate": 0.333
+      },
+      "opposition_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1536.53,
+        "games_played": 7,
+        "wins": 4,
         "losses": 3,
-        "win_rate": 0.4
+        "win_rate": 0.571
       }
     }
   ]
