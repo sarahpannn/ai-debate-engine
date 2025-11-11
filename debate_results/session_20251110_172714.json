@@ -1,9 +1,9 @@
 {
   "start_time": 1762813634.1400268,
-  "debates_completed": 42,
-  "total_words_generated": 94415,
-  "total_tokens_used": 133511,
-  "runtime_seconds": 21489.560274362564,
+  "debates_completed": 45,
+  "total_words_generated": 100979,
+  "total_tokens_used": 142958,
+  "runtime_seconds": 22154.53193116188,
   "results": [
     {
       "timestamp": "2025-11-10T17:30:06.265263",
@@ -60,20 +60,20 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       },
       "opposition_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1561.78,
-        "games_played": 8,
-        "wins": 6,
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
         "losses": 2,
-        "win_rate": 0.75
+        "win_rate": 0.778
       }
     },
     {
@@ -131,11 +131,11 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1456.05,
-        "games_played": 6,
-        "wins": 2,
+        "rating": 1485.97,
+        "games_played": 7,
+        "wins": 3,
         "losses": 4,
-        "win_rate": 0.333
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "macro_neutral",
@@ -202,11 +202,11 @@
       "government_rating": {
         "persona_id": "growth_bull",
         "debate_name": "growth",
-        "rating": 1543.61,
-        "games_played": 4,
+        "rating": 1513.68,
+        "games_played": 5,
         "wins": 3,
-        "losses": 1,
-        "win_rate": 0.75
+        "losses": 2,
+        "win_rate": 0.6
       },
       "opposition_rating": {
         "persona_id": "saas_realist",
@@ -273,20 +273,20 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1456.05,
-        "games_played": 6,
-        "wins": 2,
+        "rating": 1485.97,
+        "games_played": 7,
+        "wins": 3,
         "losses": 4,
-        "win_rate": 0.333
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "growth_bull",
         "debate_name": "growth",
-        "rating": 1543.61,
-        "games_played": 4,
+        "rating": 1513.68,
+        "games_played": 5,
         "wins": 3,
-        "losses": 1,
-        "win_rate": 0.75
+        "losses": 2,
+        "win_rate": 0.6
       }
     },
     {
@@ -344,20 +344,20 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       },
       "opposition_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1561.78,
-        "games_played": 8,
-        "wins": 6,
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
         "losses": 2,
-        "win_rate": 0.75
+        "win_rate": 0.778
       }
     },
     {
@@ -424,11 +424,11 @@
       "opposition_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       }
     },
     {
@@ -486,11 +486,11 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       },
       "opposition_rating": {
         "persona_id": "monetization_skeptic",
@@ -557,11 +557,11 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       },
       "opposition_rating": {
         "persona_id": "bundling_strategist",
@@ -699,11 +699,11 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "productivity_neutralist",
@@ -770,11 +770,11 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1456.05,
-        "games_played": 6,
-        "wins": 2,
+        "rating": 1485.97,
+        "games_played": 7,
+        "wins": 3,
         "losses": 4,
-        "win_rate": 0.333
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "macro_neutral",
@@ -841,20 +841,20 @@
       "government_rating": {
         "persona_id": "growth_bull",
         "debate_name": "growth",
-        "rating": 1543.61,
-        "games_played": 4,
+        "rating": 1513.68,
+        "games_played": 5,
         "wins": 3,
-        "losses": 1,
-        "win_rate": 0.75
+        "losses": 2,
+        "win_rate": 0.6
       },
       "opposition_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1456.05,
-        "games_played": 6,
-        "wins": 2,
+        "rating": 1485.97,
+        "games_played": 7,
+        "wins": 3,
         "losses": 4,
-        "win_rate": 0.333
+        "win_rate": 0.429
       }
     },
     {
@@ -912,11 +912,11 @@
       "government_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       },
       "opposition_rating": {
         "persona_id": "integration_pragmatist",
@@ -983,20 +983,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       }
     },
     {
@@ -1054,11 +1054,11 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1456.05,
-        "games_played": 6,
-        "wins": 2,
+        "rating": 1485.97,
+        "games_played": 7,
+        "wins": 3,
         "losses": 4,
-        "win_rate": 0.333
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "saas_realist",
@@ -1125,20 +1125,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       }
     },
     {
@@ -1196,20 +1196,20 @@
       "government_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       },
       "opposition_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       }
     },
     {
@@ -1338,20 +1338,20 @@
       "government_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1561.78,
-        "games_played": 8,
-        "wins": 6,
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
         "losses": 2,
-        "win_rate": 0.75
+        "win_rate": 0.778
       },
       "opposition_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       }
     },
     {
@@ -1409,20 +1409,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       }
     },
     {
@@ -1551,11 +1551,11 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       },
       "opposition_rating": {
         "persona_id": "bundling_strategist",
@@ -1844,11 +1844,11 @@
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       }
     },
     {
@@ -1906,20 +1906,20 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       },
       "opposition_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1561.78,
-        "games_played": 8,
-        "wins": 6,
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
         "losses": 2,
-        "win_rate": 0.75
+        "win_rate": 0.778
       }
     },
     {
@@ -1977,11 +1977,11 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "productivity_neutralist",
@@ -2057,11 +2057,11 @@
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       }
     },
     {
@@ -2119,20 +2119,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       }
     },
     {
@@ -2190,11 +2190,11 @@
       "government_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
       },
       "opposition_rating": {
         "persona_id": "productivity_neutralist",
@@ -2261,11 +2261,11 @@
       "government_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1561.78,
-        "games_played": 8,
-        "wins": 6,
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
         "losses": 2,
-        "win_rate": 0.75
+        "win_rate": 0.778
       },
       "opposition_rating": {
         "persona_id": "bundling_strategist",
@@ -2403,20 +2403,20 @@
       "government_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1561.78,
-        "games_played": 8,
-        "wins": 6,
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
         "losses": 2,
-        "win_rate": 0.75
+        "win_rate": 0.778
       },
       "opposition_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       }
     },
     {
@@ -2474,11 +2474,11 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "integration_pragmatist",
@@ -2554,11 +2554,11 @@
       "opposition_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1561.78,
-        "games_played": 8,
-        "wins": 6,
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
         "losses": 2,
-        "win_rate": 0.75
+        "win_rate": 0.778
       }
     },
     {
@@ -2625,11 +2625,11 @@
       "opposition_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1516.06,
-        "games_played": 9,
+        "rating": 1495.2,
+        "games_played": 10,
         "wins": 4,
-        "losses": 5,
-        "win_rate": 0.444
+        "losses": 6,
+        "win_rate": 0.4
       }
     },
     {
@@ -2696,11 +2696,11 @@
       "opposition_rating": {
         "persona_id": "growth_bull",
         "debate_name": "growth",
-        "rating": 1543.61,
-        "games_played": 4,
+        "rating": 1513.68,
+        "games_played": 5,
         "wins": 3,
-        "losses": 1,
-        "win_rate": 0.75
+        "losses": 2,
+        "win_rate": 0.6
       }
     },
     {
@@ -2758,11 +2758,11 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "integration_pragmatist",
@@ -2829,11 +2829,11 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1495.02,
-        "games_played": 13,
+        "rating": 1478.9,
+        "games_played": 14,
         "wins": 6,
-        "losses": 7,
-        "win_rate": 0.462
+        "losses": 8,
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "integration_pragmatist",
@@ -2900,11 +2900,11 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1456.05,
-        "games_played": 6,
-        "wins": 2,
+        "rating": 1485.97,
+        "games_played": 7,
+        "wins": 3,
         "losses": 4,
-        "win_rate": 0.333
+        "win_rate": 0.429
       },
       "opposition_rating": {
         "persona_id": "saas_realist",
@@ -2980,11 +2980,224 @@
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1492.25,
-        "games_played": 12,
-        "wins": 6,
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
         "losses": 6,
-        "win_rate": 0.5
+        "win_rate": 0.538
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:28:36.561003",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_risk_bear",
+      "opposition_persona": "ai_augmentation_bull",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01QY2VtYLxTbPBjYV2eLxXf4', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and logically consistent case that effectively leveraged GitLab\\'s own admissions and market realities to support their position.\\n\\n**Argument Quality and Evidence:**\\nThe Government presented superior evidence by consistently citing GitLab\\'s own conference transcripts that revealed structural vulnerabilities. Their most powerf...",
+      "duration_seconds": 190.847238779068,
+      "total_words": 2190,
+      "total_tokens": 3123,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 405,
+          "token_count": 537,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that AI coding assistants will fundamentally undermine GitLab's seat-based revenue model, creating an existen..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 339,
+          "token_count": 511,
+          "content_preview": "**The Prime Minister's Historical Analogy is Fundamentally Flawed**\n\nThe Prime Minister compares AI coding assistants to industrial automation, but this misses the crucial distinction: AI augments rat..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 334,
+          "token_count": 461,
+          "content_preview": "**The Opposition Ignores GitLab's Own Admission of Vulnerability**\n\nThe Opposition Leader conveniently overlooks GitLab's own 2025 Conference Transcript, where management explicitly states their seat-..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 340,
+          "token_count": 507,
+          "content_preview": "**The Government's Selective Data Manipulation is Exposed**\n\nThe Government cherry-picks declining job postings while ignoring the Bureau of Labor Statistics' definitive projection: software developer..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 400,
+          "token_count": 547,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to reinforce why this House must support the motion that AI coding assistants will reduce GitLab's seat-based revenue opportunity.\n\n**Gi..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 372,
+          "token_count": 560,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow against this misguided motion. The Government's case crumbles under scrutiny of actual financial data and m..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1508.38,
+        "games_played": 13,
+        "wins": 7,
+        "losses": 6,
+        "win_rate": 0.538
+      },
+      "opposition_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1478.9,
+        "games_played": 14,
+        "wins": 6,
+        "losses": 8,
+        "win_rate": 0.429
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:31:49.426182",
+      "debate_name": "duo",
+      "government_persona": "adoption_curve_analyst",
+      "opposition_persona": "pricing_power_bull",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01S3q8ypHPSgEeDd5A8RBvTZ', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition delivered a more compelling and devastating case that systematically dismantled the Government\\'s optimistic projections with hard evidence and logical contradictions.\\n\\n**Strength of Arguments and Evidence:**\\nThe Opposition\\'s case was anchored by a single, devastating piece of evidence that they returned to repeatedly: GitLab\\'s own CFO admitting \"I can\\'t t...",
+      "duration_seconds": 190.85818910598755,
+      "total_words": 2295,
+      "total_tokens": 3217,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 418,
+          "token_count": 548,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today to open the case for the Government on a proposition that will define the future of enterprise software monetization: that GitLab's Duo ..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 328,
+          "token_count": 453,
+          "content_preview": "**The Opposition's Reality Check**\n\nThe Government's rosy projections crumble under scrutiny. GitLab's own CFO Brian Robins admitted in their 2025 First Quarter Conference that they \"can't think of on..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 435,
+          "token_count": 633,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nThe Opposition's pessimistic narrative collapses when confronted with GitLab's actual financial performance and strategic positioning. As a Member of Government, I..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 315,
+          "token_count": 446,
+          "content_preview": "**The Competitive Annihilation Evidence**\n\nThe Government's optimism shatters against GitLab's own admissions. Their CFO Brian Robins devastatingly confessed in the 2025 First Quarter Conference: \"I c..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 402,
+          "token_count": 582,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I shall crystallize why the Government's case is unassailable and why the Opposition's desperate counterarguments only reinforce our inevitable..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 397,
+          "token_count": 555,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I shall deliver the decisive blow that exposes why the Government's case is built on financial quicksand, not solid ground.\n\n**The Devastating ..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "adoption_curve_analyst",
+        "debate_name": "duo",
+        "rating": 1495.2,
+        "games_played": 10,
+        "wins": 4,
+        "losses": 6,
+        "win_rate": 0.4
+      },
+      "opposition_rating": {
+        "persona_id": "pricing_power_bull",
+        "debate_name": "duo",
+        "rating": 1582.64,
+        "games_played": 9,
+        "wins": 7,
+        "losses": 2,
+        "win_rate": 0.778
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:34:43.441048",
+      "debate_name": "growth",
+      "government_persona": "growth_bull",
+      "opposition_persona": "growth_skeptic",
+      "topic": "This house believes that GitLab\u2019s FY26\u2013FY27 reacceleration is sustainable rather than cyclical",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01CVWWNurWd6L7Df1oYVfqef', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\n**Argument Quality and Evidence Usage:**\\nThe Government side demonstrated superior use of specific financial data and quantifiable evidence. They consistently cited precise figures like \"non-GAAP operating margin of 10.2%\u2014an extraordinary increase of approximately 1,050 basis points year-over-year,\" \"adjusted free cash flow surged 259% to $120 million,\" and customer-specific ...",
+      "duration_seconds": 171.96345686912537,
+      "total_words": 2079,
+      "total_tokens": 3107,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 405,
+          "token_count": 569,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to defend the proposition that GitLab's FY26-FY27 reacceleration represents a **structural transformation**, not a cyc..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 383,
+          "token_count": 556,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to expose the fundamental flaws in the Prime Minister's rosy assessment. GitLab's apparent reacceleration is **cyclical theater**, n..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 332,
+          "token_count": 513,
+          "content_preview": "The Opposition Leader's arguments crumble under scrutiny of GitLab's actual financial performance. Let me present the compelling evidence:\n\n**First, Ultimate tier growth demonstrates structural demand..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 299,
+          "token_count": 448,
+          "content_preview": "**Mr. Speaker,** the Government's triumphant narrative collapses when confronted with GitLab's own admissions of structural weakness.\n\n**First, the sales reorganization reveals execution desperation.*..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 329,
+          "token_count": 514,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to deliver the decisive blow to Opposition's crumbling case. The evidence overwhelmingly supports Government's position that GitLab's re..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 331,
+          "token_count": 507,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the final verdict: **Opposition must win** because GitLab's supposed reacceleration is built on **cyclical quicksand**, not s..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "growth_bull",
+        "debate_name": "growth",
+        "rating": 1513.68,
+        "games_played": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_rate": 0.6
+      },
+      "opposition_rating": {
+        "persona_id": "growth_skeptic",
+        "debate_name": "growth",
+        "rating": 1485.97,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
       }
     }
   ]
