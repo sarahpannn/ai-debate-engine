@@ -5,110 +5,110 @@
     {
       "persona_id": "ai_risk_bear",
       "debate_name": "ai_existential",
-      "rating": 1445.31,
-      "games_played": 6,
-      "wins": 2,
-      "losses": 4,
-      "win_rate": 0.333
+      "rating": 1492.25,
+      "games_played": 12,
+      "wins": 6,
+      "losses": 6,
+      "win_rate": 0.5
     },
     {
       "persona_id": "ai_augmentation_bull",
       "debate_name": "ai_existential",
-      "rating": 1536.53,
-      "games_played": 7,
-      "wins": 4,
-      "losses": 3,
-      "win_rate": 0.571
+      "rating": 1495.02,
+      "games_played": 13,
+      "wins": 6,
+      "losses": 7,
+      "win_rate": 0.462
     },
     {
       "persona_id": "monetization_skeptic",
       "debate_name": "duo",
-      "rating": 1498.78,
-      "games_played": 2,
-      "wins": 1,
-      "losses": 1,
-      "win_rate": 0.5
-    },
-    {
-      "persona_id": "pricing_power_bull",
-      "debate_name": "duo",
-      "rating": 1565.66,
-      "games_played": 3,
-      "wins": 3,
-      "losses": 0,
-      "win_rate": 1.0
-    },
-    {
-      "persona_id": "adoption_curve_analyst",
-      "debate_name": "duo",
-      "rating": 1463.96,
+      "rating": 1450.51,
       "games_played": 4,
       "wins": 1,
       "losses": 3,
       "win_rate": 0.25
     },
     {
+      "persona_id": "pricing_power_bull",
+      "debate_name": "duo",
+      "rating": 1561.78,
+      "games_played": 8,
+      "wins": 6,
+      "losses": 2,
+      "win_rate": 0.75
+    },
+    {
+      "persona_id": "adoption_curve_analyst",
+      "debate_name": "duo",
+      "rating": 1516.06,
+      "games_played": 9,
+      "wins": 4,
+      "losses": 5,
+      "win_rate": 0.444
+    },
+    {
       "persona_id": "growth_skeptic",
       "debate_name": "growth",
-      "rating": 1476.69,
-      "games_played": 5,
+      "rating": 1456.05,
+      "games_played": 6,
       "wins": 2,
-      "losses": 3,
-      "win_rate": 0.4
+      "losses": 4,
+      "win_rate": 0.333
     },
     {
       "persona_id": "macro_neutral",
       "debate_name": "growth",
-      "rating": 1498.57,
-      "games_played": 2,
+      "rating": 1454.1,
+      "games_played": 4,
       "wins": 1,
-      "losses": 1,
-      "win_rate": 0.5
+      "losses": 3,
+      "win_rate": 0.25
     },
     {
       "persona_id": "growth_bull",
       "debate_name": "growth",
-      "rating": 1522.91,
-      "games_played": 3,
-      "wins": 2,
+      "rating": 1543.61,
+      "games_played": 4,
+      "wins": 3,
       "losses": 1,
-      "win_rate": 0.667
+      "win_rate": 0.75
     },
     {
       "persona_id": "saas_realist",
       "debate_name": "growth",
-      "rating": 1501.83,
-      "games_played": 2,
-      "wins": 1,
+      "rating": 1546.25,
+      "games_played": 4,
+      "wins": 3,
       "losses": 1,
-      "win_rate": 0.5
+      "win_rate": 0.75
     },
     {
       "persona_id": "integration_pragmatist",
       "debate_name": "ai_existential",
-      "rating": 1522.86,
-      "games_played": 3,
-      "wins": 2,
-      "losses": 1,
-      "win_rate": 0.667
+      "rating": 1546.45,
+      "games_played": 11,
+      "wins": 7,
+      "losses": 4,
+      "win_rate": 0.636
     },
     {
       "persona_id": "bundling_strategist",
       "debate_name": "duo",
-      "rating": 1471.6,
-      "games_played": 1,
-      "wins": 0,
-      "losses": 1,
-      "win_rate": 0.0
+      "rating": 1471.65,
+      "games_played": 7,
+      "wins": 3,
+      "losses": 4,
+      "win_rate": 0.429
     },
     {
       "persona_id": "productivity_neutralist",
       "debate_name": "ai_existential",
-      "rating": 1495.29,
-      "games_played": 2,
-      "wins": 1,
-      "losses": 1,
-      "win_rate": 0.5
+      "rating": 1461.58,
+      "games_played": 8,
+      "wins": 3,
+      "losses": 5,
+      "win_rate": 0.375
     }
   ]
 }

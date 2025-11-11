@@ -1,9 +1,9 @@
 {
   "start_time": 1762813634.1400268,
-  "debates_completed": 17,
-  "total_words_generated": 38406,
-  "total_tokens_used": 54511,
-  "runtime_seconds": 3204.973180294037,
+  "debates_completed": 42,
+  "total_words_generated": 94415,
+  "total_tokens_used": 133511,
+  "runtime_seconds": 21489.560274362564,
   "results": [
     {
       "timestamp": "2025-11-10T17:30:06.265263",
@@ -60,20 +60,20 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1463.96,
-        "games_played": 4,
-        "wins": 1,
-        "losses": 3,
-        "win_rate": 0.25
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
       },
       "opposition_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1565.66,
-        "games_played": 3,
-        "wins": 3,
-        "losses": 0,
-        "win_rate": 1.0
+        "rating": 1561.78,
+        "games_played": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 0.75
       }
     },
     {
@@ -131,20 +131,20 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1476.69,
-        "games_played": 5,
+        "rating": 1456.05,
+        "games_played": 6,
         "wins": 2,
-        "losses": 3,
-        "win_rate": 0.4
+        "losses": 4,
+        "win_rate": 0.333
       },
       "opposition_rating": {
         "persona_id": "macro_neutral",
         "debate_name": "growth",
-        "rating": 1498.57,
-        "games_played": 2,
+        "rating": 1454.1,
+        "games_played": 4,
         "wins": 1,
-        "losses": 1,
-        "win_rate": 0.5
+        "losses": 3,
+        "win_rate": 0.25
       }
     },
     {
@@ -202,20 +202,20 @@
       "government_rating": {
         "persona_id": "growth_bull",
         "debate_name": "growth",
-        "rating": 1522.91,
-        "games_played": 3,
-        "wins": 2,
+        "rating": 1543.61,
+        "games_played": 4,
+        "wins": 3,
         "losses": 1,
-        "win_rate": 0.667
+        "win_rate": 0.75
       },
       "opposition_rating": {
         "persona_id": "saas_realist",
         "debate_name": "growth",
-        "rating": 1501.83,
-        "games_played": 2,
-        "wins": 1,
+        "rating": 1546.25,
+        "games_played": 4,
+        "wins": 3,
         "losses": 1,
-        "win_rate": 0.5
+        "win_rate": 0.75
       }
     },
     {
@@ -273,20 +273,20 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1476.69,
-        "games_played": 5,
+        "rating": 1456.05,
+        "games_played": 6,
         "wins": 2,
-        "losses": 3,
-        "win_rate": 0.4
+        "losses": 4,
+        "win_rate": 0.333
       },
       "opposition_rating": {
         "persona_id": "growth_bull",
         "debate_name": "growth",
-        "rating": 1522.91,
-        "games_played": 3,
-        "wins": 2,
+        "rating": 1543.61,
+        "games_played": 4,
+        "wins": 3,
         "losses": 1,
-        "win_rate": 0.667
+        "win_rate": 0.75
       }
     },
     {
@@ -344,20 +344,20 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1463.96,
-        "games_played": 4,
-        "wins": 1,
-        "losses": 3,
-        "win_rate": 0.25
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
       },
       "opposition_rating": {
         "persona_id": "pricing_power_bull",
         "debate_name": "duo",
-        "rating": 1565.66,
-        "games_played": 3,
-        "wins": 3,
-        "losses": 0,
-        "win_rate": 1.0
+        "rating": 1561.78,
+        "games_played": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 0.75
       }
     },
     {
@@ -415,20 +415,20 @@
       "government_rating": {
         "persona_id": "integration_pragmatist",
         "debate_name": "ai_existential",
-        "rating": 1522.86,
-        "games_played": 3,
-        "wins": 2,
-        "losses": 1,
-        "win_rate": 0.667
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
       },
       "opposition_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1536.53,
-        "games_played": 7,
-        "wins": 4,
-        "losses": 3,
-        "win_rate": 0.571
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
       }
     },
     {
@@ -486,20 +486,20 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1463.96,
-        "games_played": 4,
-        "wins": 1,
-        "losses": 3,
-        "win_rate": 0.25
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
       },
       "opposition_rating": {
         "persona_id": "monetization_skeptic",
         "debate_name": "duo",
-        "rating": 1498.78,
-        "games_played": 2,
+        "rating": 1450.51,
+        "games_played": 4,
         "wins": 1,
-        "losses": 1,
-        "win_rate": 0.5
+        "losses": 3,
+        "win_rate": 0.25
       }
     },
     {
@@ -557,20 +557,20 @@
       "government_rating": {
         "persona_id": "adoption_curve_analyst",
         "debate_name": "duo",
-        "rating": 1463.96,
-        "games_played": 4,
-        "wins": 1,
-        "losses": 3,
-        "win_rate": 0.25
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
       },
       "opposition_rating": {
         "persona_id": "bundling_strategist",
         "debate_name": "duo",
-        "rating": 1471.6,
-        "games_played": 1,
-        "wins": 0,
-        "losses": 1,
-        "win_rate": 0.0
+        "rating": 1471.65,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
       }
     },
     {
@@ -628,20 +628,20 @@
       "government_rating": {
         "persona_id": "integration_pragmatist",
         "debate_name": "ai_existential",
-        "rating": 1522.86,
-        "games_played": 3,
-        "wins": 2,
-        "losses": 1,
-        "win_rate": 0.667
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
       },
       "opposition_rating": {
         "persona_id": "productivity_neutralist",
         "debate_name": "ai_existential",
-        "rating": 1495.29,
-        "games_played": 2,
-        "wins": 1,
-        "losses": 1,
-        "win_rate": 0.5
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
       }
     },
     {
@@ -699,20 +699,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1536.53,
-        "games_played": 7,
-        "wins": 4,
-        "losses": 3,
-        "win_rate": 0.571
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
       },
       "opposition_rating": {
         "persona_id": "productivity_neutralist",
         "debate_name": "ai_existential",
-        "rating": 1495.29,
-        "games_played": 2,
-        "wins": 1,
-        "losses": 1,
-        "win_rate": 0.5
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
       }
     },
     {
@@ -770,20 +770,20 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1476.69,
-        "games_played": 5,
+        "rating": 1456.05,
+        "games_played": 6,
         "wins": 2,
-        "losses": 3,
-        "win_rate": 0.4
+        "losses": 4,
+        "win_rate": 0.333
       },
       "opposition_rating": {
         "persona_id": "macro_neutral",
         "debate_name": "growth",
-        "rating": 1498.57,
-        "games_played": 2,
+        "rating": 1454.1,
+        "games_played": 4,
         "wins": 1,
-        "losses": 1,
-        "win_rate": 0.5
+        "losses": 3,
+        "win_rate": 0.25
       }
     },
     {
@@ -841,20 +841,20 @@
       "government_rating": {
         "persona_id": "growth_bull",
         "debate_name": "growth",
-        "rating": 1522.91,
-        "games_played": 3,
-        "wins": 2,
+        "rating": 1543.61,
+        "games_played": 4,
+        "wins": 3,
         "losses": 1,
-        "win_rate": 0.667
+        "win_rate": 0.75
       },
       "opposition_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1476.69,
-        "games_played": 5,
+        "rating": 1456.05,
+        "games_played": 6,
         "wins": 2,
-        "losses": 3,
-        "win_rate": 0.4
+        "losses": 4,
+        "win_rate": 0.333
       }
     },
     {
@@ -912,20 +912,20 @@
       "government_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1445.31,
-        "games_played": 6,
-        "wins": 2,
-        "losses": 4,
-        "win_rate": 0.333
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
       },
       "opposition_rating": {
         "persona_id": "integration_pragmatist",
         "debate_name": "ai_existential",
-        "rating": 1522.86,
-        "games_played": 3,
-        "wins": 2,
-        "losses": 1,
-        "win_rate": 0.667
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
       }
     },
     {
@@ -983,20 +983,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1536.53,
-        "games_played": 7,
-        "wins": 4,
-        "losses": 3,
-        "win_rate": 0.571
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1445.31,
-        "games_played": 6,
-        "wins": 2,
-        "losses": 4,
-        "win_rate": 0.333
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
       }
     },
     {
@@ -1054,20 +1054,20 @@
       "government_rating": {
         "persona_id": "growth_skeptic",
         "debate_name": "growth",
-        "rating": 1476.69,
-        "games_played": 5,
+        "rating": 1456.05,
+        "games_played": 6,
         "wins": 2,
-        "losses": 3,
-        "win_rate": 0.4
+        "losses": 4,
+        "win_rate": 0.333
       },
       "opposition_rating": {
         "persona_id": "saas_realist",
         "debate_name": "growth",
-        "rating": 1501.83,
-        "games_played": 2,
-        "wins": 1,
+        "rating": 1546.25,
+        "games_played": 4,
+        "wins": 3,
         "losses": 1,
-        "win_rate": 0.5
+        "win_rate": 0.75
       }
     },
     {
@@ -1125,20 +1125,20 @@
       "government_rating": {
         "persona_id": "ai_augmentation_bull",
         "debate_name": "ai_existential",
-        "rating": 1536.53,
-        "games_played": 7,
-        "wins": 4,
-        "losses": 3,
-        "win_rate": 0.571
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
       },
       "opposition_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1445.31,
-        "games_played": 6,
-        "wins": 2,
-        "losses": 4,
-        "win_rate": 0.333
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
       }
     },
     {
@@ -1196,20 +1196,1795 @@
       "government_rating": {
         "persona_id": "ai_risk_bear",
         "debate_name": "ai_existential",
-        "rating": 1445.31,
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
+      },
+      "opposition_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
+      }
+    },
+    {
+      "timestamp": "2025-11-10T18:31:52.718597",
+      "debate_name": "duo",
+      "government_persona": "bundling_strategist",
+      "opposition_persona": "monetization_skeptic",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01MajKxCNsf7S5ho4rMxbVGH', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based argument that effectively demonstrated how GitLab\\'s bundling strategy will materially increase ARR per user. Here\\'s my detailed analysis:\\n\\n**1. Strength of Arguments and Evidence:**\\nThe Government consistently provided concrete financial data to support their position. They cited specific metrics like Ulti...",
+      "duration_seconds": 671.5851299762726,
+      "total_words": 2185,
+      "total_tokens": 3044,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 410,
+          "token_count": 532,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that GitLab's strategic bundling of Duo AI within Ultimate tier packages represents a masterclass in retentio..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 320,
+          "token_count": 462,
+          "content_preview": "**The Prime Minister's Bundling Delusion**\n\nThe Prime Minister fundamentally misunderstands the AI monetization crisis facing GitLab. While he celebrates Ultimate tier growth, he conveniently ignores ..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 320,
+          "token_count": 467,
+          "content_preview": "**The Opposition's Commoditization Myth Crumbles**\n\nThe Leader of Opposition peddles fear while ignoring GitLab's extraordinary financial performance. According to GitLab's 2025 Third Quarter Earnings..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 365,
+          "token_count": 512,
+          "content_preview": "**Mr. Speaker, The Government's Bundling Fantasy Exposed**\n\nThe Member of Government desperately clings to Ultimate tier growth while ignoring the fundamental monetization crisis facing GitLab Duo. Hi..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 383,
+          "token_count": 530,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to deliver the decisive blow to the Opposition's crumbling arguments and demonstrate why GitLab's bundling strategy will materially incr..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 387,
+          "token_count": 541,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the final verdict: the Government's bundling fantasy cannot mask GitLab Duo's fundamental monetization crisis. The evidence o..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "bundling_strategist",
+        "debate_name": "duo",
+        "rating": 1471.65,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
+      },
+      "opposition_rating": {
+        "persona_id": "monetization_skeptic",
+        "debate_name": "duo",
+        "rating": 1450.51,
+        "games_played": 4,
+        "wins": 1,
+        "losses": 3,
+        "win_rate": 0.25
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:15:31.891378",
+      "debate_name": "duo",
+      "government_persona": "pricing_power_bull",
+      "opposition_persona": "adoption_curve_analyst",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_016rTnrmLKkhkwY4wK5ojw3D', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition delivered a more compelling and evidence-based case that systematically dismantled the Government\\'s optimistic projections through careful analysis of GitLab\\'s own financial documents.\\n\\n**Strength of Arguments and Evidence:**\\nThe Opposition built their case around a coherent three-phase adoption framework (integration, conversion, expansion) that aligned wi...",
+      "duration_seconds": 13417.163228988647,
+      "total_words": 2243,
+      "total_tokens": 3176,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 374,
+          "token_count": 494,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to open the case for the Government on a proposition that will fundamentally reshape how we view enterprise software m..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 388,
+          "token_count": 578,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to challenge the Government's overly optimistic projections with hard financial reality. The Prime Minister's case crumbles under sc..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 338,
+          "token_count": 467,
+          "content_preview": "**The Opposition Leader fundamentally mischaracterizes GitLab's strategic positioning.** While they focus on early adoption challenges, they ignore the architectural transformation already underway.\n\n..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 355,
+          "token_count": 515,
+          "content_preview": "**The Government's Member conveniently ignores GitLab's own admission of Duo's limited revenue impact.** According to GitLab's 2025 Third Quarter Earnings Call, when directly asked about \"pricing yiel..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 405,
+          "token_count": 573,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government's case is unassailable: GitLab's Duo AI suite and Ultimate tier represent a pricing power transformati..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 383,
+          "token_count": 549,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's crumbling case. The evidence from GitLab's own financial documents demolishes their opt..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "pricing_power_bull",
+        "debate_name": "duo",
+        "rating": 1561.78,
+        "games_played": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 0.75
+      },
+      "opposition_rating": {
+        "persona_id": "adoption_curve_analyst",
+        "debate_name": "duo",
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:19:04.242253",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_augmentation_bull",
+      "opposition_persona": "ai_risk_bear",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01LuPKc9rTdS2JWm4yF8HoWF', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based case that effectively countered the Opposition\\'s arguments through superior use of financial data and logical reasoning.\\n\\n**Argument Quality and Evidence Usage:**\\nThe Government consistently cited specific, concrete financial data from GitLab\\'s earnings calls and conference transcripts, including:\\n- GitLa...",
+      "duration_seconds": 210.33887124061584,
+      "total_words": 2397,
+      "total_tokens": 3351,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 451,
+          "token_count": 618,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to firmly reject the motion before us. The Government's position is clear: AI coding assistants will not reduce GitLab..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 434,
+          "token_count": 602,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to expose the fundamental flaw in the Prime Minister's rosy narrative. While the Government celebrates GitLab's current margins, the..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 372,
+          "token_count": 541,
+          "content_preview": "**The Opposition's Seat Contraction Theory Crumbles Under Financial Scrutiny**\n\nThe Leader of Opposition cherry-picks job posting data while ignoring GitLab's actual financial performance. According t..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 349,
+          "token_count": 478,
+          "content_preview": "**The Government's Cherry-Picked Metrics Mask Fundamental Disruption**\n\nThe Government celebrates GitLab's \"dollars added within the quarter,\" but conspicuously avoids discussing seat growth rates. Th..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 404,
+          "token_count": 569,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to deliver the decisive blow to the Opposition's crumbling case. Their seat contraction theory has been systematically dismantled by emp..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 387,
+          "token_count": 543,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I shall deliver the final, decisive argument for why this House must support the motion. The Government's case crumbles under the weight of mar..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
+      },
+      "opposition_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:21:41.275499",
+      "debate_name": "ai_existential",
+      "government_persona": "integration_pragmatist",
+      "opposition_persona": "productivity_neutralist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_016WWT1gWUmusKg3zEDwZPg3', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based case that effectively countered the Opposition\\'s arguments while maintaining logical consistency throughout their speeches.\\n\\n**Argument Quality and Evidence Usage:**\\nThe Government presented stronger factual evidence from GitLab\\'s earnings calls and conference transcripts. Their HFM case study (2.5 million...",
+      "duration_seconds": 155.02538013458252,
+      "total_words": 2185,
+      "total_tokens": 3043,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 420,
+          "token_count": 578,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that this motion fundamentally misunderstands the strategic reality facing GitLab. While the Opposition may f..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 321,
+          "token_count": 446,
+          "content_preview": "**The Productivity Rebalancing Reality**\n\nMr. Speaker, the Prime Minister misses the fundamental shift occurring in software engineering. AI coding assistants aren't simply \"enhancing\" existing roles\u2014..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 341,
+          "token_count": 480,
+          "content_preview": "**The Financial Evidence is Clear**\n\nMr. Speaker, the Opposition's \"seat reduction\" narrative crumbles when confronted with GitLab's actual financial performance. The 2026 Fourth Quarter Earnings Call..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 304,
+          "token_count": 428,
+          "content_preview": "**The Workforce Transformation Evidence**\n\nMr. Speaker, GitLab's own 2025 Q1 conference transcript reveals the productivity rebalancing I described. They explicitly state their goal: \"rather than spen..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 403,
+          "token_count": 571,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail in this debate. The Opposition's case collapses under the weight of GitLab's own financia..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 396,
+          "token_count": 540,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to crystallize why the Opposition must prevail. The Government's case fundamentally misunderstands the productivity rebalancing revoluti..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "integration_pragmatist",
+        "debate_name": "ai_existential",
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      },
+      "opposition_rating": {
+        "persona_id": "productivity_neutralist",
+        "debate_name": "ai_existential",
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:24:41.254135",
+      "debate_name": "duo",
+      "government_persona": "adoption_curve_analyst",
+      "opposition_persona": "bundling_strategist",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01RiznMA5K1QqAvZqZ8Udw1v', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government won this debate through superior use of concrete financial evidence and a more coherent strategic framework, while the Opposition\\'s arguments contained internal contradictions that undermined their position.\\n\\n**Argument Quality and Evidence:**\\nThe Government presented a clear three-phase adoption model supported by specific financial data from GitLab\\'s earn...",
+      "duration_seconds": 177.97133374214172,
+      "total_words": 2333,
+      "total_tokens": 3292,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 425,
+          "token_count": 556,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today to open the case for the Government on a proposition that will define the future of enterprise software monetization: that GitLab's Duo ..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 413,
+          "token_count": 576,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of the Opposition to fundamentally challenge the Government's narrow focus on standalone ARR increases. The Honorable Prime Minister has missed th..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 358,
+          "token_count": 510,
+          "content_preview": "**The Financial Evidence Contradicts the Opposition's Narrative**\n\nMr. Speaker, the Opposition Leader's retention-focused argument crumbles under scrutiny of GitLab's actual financial performance. Acc..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 384,
+          "token_count": 565,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as a Member of the Opposition to expose the fundamental flaw in the Government's ARR obsession: they're measuring the wrong metrics entirely.\n\n**The Retenti..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 385,
+          "token_count": 560,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail in this debate. The Opposition has constructed an elaborate theoretical framework while i..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 368,
+          "token_count": 525,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's flawed ARR obsession. The financial evidence they celebrate actually proves our bundlin..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "adoption_curve_analyst",
+        "debate_name": "duo",
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
+      },
+      "opposition_rating": {
+        "persona_id": "bundling_strategist",
+        "debate_name": "duo",
+        "rating": 1471.65,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:27:20.492426",
+      "debate_name": "ai_existential",
+      "government_persona": "productivity_neutralist",
+      "opposition_persona": "integration_pragmatist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01695pvWzy7jZDnHRbphGzhx', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition won this debate through superior strategic framing, more compelling use of evidence, and better adaptation to their opponent\\'s arguments.\\n\\n**Argument Quality and Evidence Usage:**\\nBoth sides effectively cited GitLab\\'s financial documents and conference transcripts, but the Opposition used this evidence more strategically. While the Government focused on def...",
+      "duration_seconds": 157.2211139202118,
+      "total_words": 1985,
+      "total_tokens": 2867,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 380,
+          "token_count": 521,
+          "content_preview": "**Mr. Speaker, Honourable Members of this House,**\n\nI rise today to argue that AI coding assistants will fundamentally rebalance, not reduce, GitLab's revenue opportunity. While the Opposition may fea..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 314,
+          "token_count": 466,
+          "content_preview": "**Mr. Speaker,** the Prime Minister fundamentally misunderstands the battlefield. This isn't about seat reduction\u2014it's about ecosystem control. GitLab's survival depends not on defending traditional s..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 289,
+          "token_count": 416,
+          "content_preview": "**Mr. Speaker,** the financial evidence overwhelmingly supports our productivity neutralist position. While the Opposition focuses on ecosystem control, the real story lies in GitLab's successful reve..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 291,
+          "token_count": 423,
+          "content_preview": "**Mr. Speaker,** the Government Member completely misses GitLab's actual strategic pivot. The financial documents reveal a company positioning for **ecosystem dominance**, not seat preservation.\n\n**Fi..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 347,
+          "token_count": 502,
+          "content_preview": "**Mr. Speaker, Honourable Members,**\n\nAs Government Whip, I rise to crystallize why the Government position must prevail. The financial evidence unequivocally demonstrates that AI coding assistants wi..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 364,
+          "token_count": 539,
+          "content_preview": "**Mr. Speaker, Honourable Members,**\n\nAs Opposition Whip, I rise to demonstrate why the Opposition must prevail. The Government fundamentally misunderstands GitLab's strategic transformation\u2014this isn'..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "productivity_neutralist",
+        "debate_name": "ai_existential",
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
+      },
+      "opposition_rating": {
+        "persona_id": "integration_pragmatist",
+        "debate_name": "ai_existential",
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:30:17.990277",
+      "debate_name": "growth",
+      "government_persona": "saas_realist",
+      "opposition_persona": "macro_neutral",
+      "topic": "This house believes that GitLab\u2019s FY26\u2013FY27 reacceleration is sustainable rather than cyclical",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01JwpxuBoLSYdB8wwHvkGwmN', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and cohesive argument that effectively demonstrated GitLab\\'s sustainable transformation, while the Opposition relied too heavily on macro concerns without adequately addressing the Government\\'s core evidence.\\n\\n**Argument Quality and Evidence:**\\nThe Government presented superior financial evidence with specific, quantifiable ...",
+      "duration_seconds": 175.4739010334015,
+      "total_words": 2224,
+      "total_tokens": 3240,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 395,
+          "token_count": 563,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to defend the proposition that GitLab's FY26-FY27 reacceleration represents sustainable growth, not merely cyclical re..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 386,
+          "token_count": 535,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to challenge the Prime Minister's fundamentally flawed premise. While the Government celebrates GitLab's recent performance, they ig..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 306,
+          "token_count": 457,
+          "content_preview": "**The Opposition's macro-focused argument fundamentally misses GitLab's transformation into a cash-generating machine.** While they fixate on external headwinds, the financial evidence reveals a compa..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 367,
+          "token_count": 531,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nThe Government Member's response perfectly illustrates their fundamental blind spot: celebrating operational metrics while ignoring the macro storm clouds gatherin..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 369,
+          "token_count": 558,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why this House must support the Government's position: GitLab's reacceleration represents sustainable SaaS maturation, no..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 401,
+          "token_count": 596,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to crystallize why the Opposition must prevail: GitLab's reacceleration is fundamentally cyclical, vulnerable to macro forces that will ..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "saas_realist",
+        "debate_name": "growth",
+        "rating": 1546.25,
+        "games_played": 4,
+        "wins": 3,
+        "losses": 1,
+        "win_rate": 0.75
+      },
+      "opposition_rating": {
+        "persona_id": "macro_neutral",
+        "debate_name": "growth",
+        "rating": 1454.1,
+        "games_played": 4,
+        "wins": 1,
+        "losses": 3,
+        "win_rate": 0.25
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:33:01.053157",
+      "debate_name": "ai_existential",
+      "government_persona": "integration_pragmatist",
+      "opposition_persona": "productivity_neutralist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_0199wcHjCvwA4EMnmEXeZDk8', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition won this debate through superior argument structure, more effective use of evidence, and clearer logical progression, despite both sides presenting compelling cases.\\n\\n**Argument Quality and Evidence Usage:**\\nBoth sides effectively cited GitLab\\'s financial documents, but the Opposition used the evidence more strategically. While the Government focused on GitL...",
+      "duration_seconds": 161.05152678489685,
+      "total_words": 2210,
+      "total_tokens": 3070,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 420,
+          "token_count": 578,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that this motion fundamentally misunderstands the strategic reality facing GitLab. While the Opposition may f..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 321,
+          "token_count": 446,
+          "content_preview": "**The Productivity Rebalancing Reality**\n\nMr. Speaker, the Prime Minister misses the fundamental shift occurring in software engineering. AI coding assistants aren't simply \"enhancing\" existing roles\u2014..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 341,
+          "token_count": 480,
+          "content_preview": "**The Financial Evidence is Clear**\n\nMr. Speaker, the Opposition's \"seat reduction\" narrative crumbles when confronted with GitLab's actual financial performance. The 2026 Fourth Quarter Earnings Call..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 304,
+          "token_count": 428,
+          "content_preview": "**The Workforce Transformation Evidence**\n\nMr. Speaker, GitLab's own 2025 Q1 conference transcript reveals the productivity rebalancing I described. They explicitly state their goal: \"rather than spen..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 432,
+          "token_count": 596,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail in this debate. The Opposition's case collapses under the weight of GitLab's own financia..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 392,
+          "token_count": 542,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to crystallize why the Opposition must prevail. The Government's case crumbles when we examine GitLab's own strategic transformation\u2014the..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "integration_pragmatist",
+        "debate_name": "ai_existential",
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      },
+      "opposition_rating": {
+        "persona_id": "productivity_neutralist",
+        "debate_name": "ai_existential",
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:36:01.231814",
+      "debate_name": "ai_existential",
+      "government_persona": "productivity_neutralist",
+      "opposition_persona": "ai_risk_bear",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01VbeTZs7QFiyLmjesrF53ub', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition presented a more compelling and logically consistent case that effectively undermined the Government\\'s arguments through several key strengths:\\n\\n**1. Superior Use of Evidence and Internal Contradictions:**\\nThe Opposition masterfully used GitLab\\'s own statements against them. The most devastating piece of evidence was GitLab\\'s admission that they \"built a R...",
+      "duration_seconds": 178.16994500160217,
+      "total_words": 2206,
+      "total_tokens": 3064,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 380,
+          "token_count": 521,
+          "content_preview": "**Mr. Speaker, Honourable Members of this House,**\n\nI rise today to argue that AI coding assistants will fundamentally rebalance, not reduce, GitLab's revenue opportunity. While the Opposition may fea..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 418,
+          "token_count": 569,
+          "content_preview": "**Mr. Speaker, Honourable Members,**\n\nThe Prime Minister's optimistic vision fundamentally misunderstands the disruptive nature of AI automation. I rise to present the Opposition's case: AI coding ass..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 312,
+          "token_count": 441,
+          "content_preview": "The Opposition fundamentally misreads the financial evidence. GitLab's 2026 Second Quarter Earnings Call reveals the HFM case study\u2014a client actively evaluating multiple AI tools who chose GitLab Duo ..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 336,
+          "token_count": 473,
+          "content_preview": "**First, the Government ignores GitLab's own admission of workforce pressures.** GitLab's 2023 Q4 10-Q filing explicitly states they \"conducted a reduction in workforce of approximately 7% across all ..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 371,
+          "token_count": 521,
+          "content_preview": "**Mr. Speaker, Honourable Members,**\n\nAs Government Whip, I rise to summarize why the Government's case is unassailable: AI coding assistants will rebalance, not reduce, GitLab's revenue opportunity t..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 389,
+          "token_count": 539,
+          "content_preview": "**Mr. Speaker, Honourable Members,**\n\nAs Opposition Whip, I rise to summarize why the Opposition must prevail: AI coding assistants represent an existential threat to GitLab's seat-based revenue model..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "productivity_neutralist",
+        "debate_name": "ai_existential",
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
+      },
+      "opposition_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:38:50.645007",
+      "debate_name": "duo",
+      "government_persona": "adoption_curve_analyst",
+      "opposition_persona": "pricing_power_bull",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01EBYJnNK81LfV1hJLFoBAwT', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition delivered a more compelling and evidence-based case that systematically dismantled the Government\\'s optimistic projections. Here\\'s my detailed analysis:\\n\\n**1. Strength of Arguments and Evidence:**\\nThe Opposition\\'s case was anchored by a devastating piece of evidence that the Government never adequately addressed: GitLab\\'s own CFO Brian Robins admitting \"I...",
+      "duration_seconds": 167.4019739627838,
+      "total_words": 2281,
+      "total_tokens": 3157,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 425,
+          "token_count": 556,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today to open the case for the Government on a proposition that will define the future of enterprise software monetization: that GitLab's Duo ..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 397,
+          "token_count": 544,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of the Opposition to challenge the Government's overly optimistic projections about GitLab's Duo AI monetization. While the Prime Minister paints ..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 353,
+          "token_count": 498,
+          "content_preview": "**The Opposition Misses the Forest for the Trees**\n\nThe Leader of the Opposition focuses on early-stage challenges while ignoring the fundamental adoption curve evidence. According to GitLab's 2026 Fo..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 336,
+          "token_count": 472,
+          "content_preview": "**The Government's Monetization Mirage Exposed**\n\nThe Government's Member conveniently ignores GitLab's own CFO admitting the harsh reality. According to GitLab's 2025 First Quarter Conference Transcr..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 372,
+          "token_count": 541,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail in this debate. The Opposition's selective pessimism cannot obscure the compelling financ..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 398,
+          "token_count": 546,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's crumbling case. The financial evidence overwhelmingly demonstrates why the Opposition m..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "adoption_curve_analyst",
+        "debate_name": "duo",
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
+      },
+      "opposition_rating": {
+        "persona_id": "pricing_power_bull",
+        "debate_name": "duo",
+        "rating": 1561.78,
+        "games_played": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 0.75
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:41:49.498104",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_augmentation_bull",
+      "opposition_persona": "productivity_neutralist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_011UgHPUoYQxZAbD3H3GuYmy', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based case that effectively countered the Opposition\\'s arguments through superior use of financial data and logical reasoning.\\n\\n**Argument Quality and Evidence Usage:**\\nThe Government consistently provided concrete financial evidence from GitLab\\'s earnings calls and conference transcripts. Their strongest points...",
+      "duration_seconds": 176.84061002731323,
+      "total_words": 2222,
+      "total_tokens": 3103,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 451,
+          "token_count": 618,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to firmly reject the motion before us. The Government's position is clear: AI coding assistants will not reduce GitLab..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 305,
+          "token_count": 429,
+          "content_preview": "**The Prime Minister's Productivity Paradox Fallacy**\n\nThe Prime Minister clings to historical analogies while ignoring the unprecedented nature of AI transformation. Yes, past productivity tools expa..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 389,
+          "token_count": 563,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as a Member of Government to demolish the Opposition's flawed thesis with concrete financial evidence that proves AI coding assistants are expanding, not co..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 315,
+          "token_count": 436,
+          "content_preview": "**The Role Rebalancing Reality the Government Ignores**\n\nThe Government Member's HFM example actually proves our point\u2014customers aren't simply adding seats, they're transforming how they consume GitLa..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 399,
+          "token_count": 553,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to deliver the decisive blow to the Opposition's crumbling thesis. The evidence is overwhelming: AI coding assistants are not reducing G..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 363,
+          "token_count": 504,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to summarize why the Opposition must prevail in this crucial debate about GitLab's future revenue model adaptation.\n\n**The Government's ..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
+      },
+      "opposition_rating": {
+        "persona_id": "productivity_neutralist",
+        "debate_name": "ai_existential",
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:44:52.543466",
+      "debate_name": "ai_existential",
+      "government_persona": "integration_pragmatist",
+      "opposition_persona": "ai_risk_bear",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01JZrRdK9MQ4qbL5syaCjXfx', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government won this debate through superior use of concrete financial evidence and more compelling logical argumentation, while the Opposition relied too heavily on speculative analogies and failed to adequately address the Government\\'s strongest evidence.\\n\\n**Argument Quality and Evidence:**\\nThe Government consistently cited specific, relevant financial data from GitLa...",
+      "duration_seconds": 181.02640533447266,
+      "total_words": 2283,
+      "total_tokens": 3184,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 420,
+          "token_count": 578,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that this motion fundamentally misunderstands the strategic reality facing GitLab. While the Opposition may f..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 354,
+          "token_count": 490,
+          "content_preview": "**The Labor Market Reality**\n\nMr. Speaker, while the Prime Minister paints pictures of \"workflow stickiness,\" external labor data tells a devastating story. Revelio Labs reports a 23% decline in softw..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 361,
+          "token_count": 504,
+          "content_preview": "**The Financial Evidence is Overwhelming**\n\nMr. Speaker, the Opposition's seat reduction theory crumbles when confronted with GitLab's actual financial performance. According to GitLab's 2025 Third Qu..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 337,
+          "token_count": 483,
+          "content_preview": "**The Automation Admission**\n\nMr. Speaker, the Government's own evidence condemns their case! GitLab's 2025 First Quarter Conference Transcript explicitly states their agents will \"spend my precious h..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 423,
+          "token_count": 584,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail on this motion. The Opposition's case collapses under the weight of GitLab's own financia..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 388,
+          "token_count": 545,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's crumbling case. The evidence overwhelmingly demonstrates that AI coding assistants will..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "integration_pragmatist",
+        "debate_name": "ai_existential",
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      },
+      "opposition_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:48:06.841374",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_augmentation_bull",
+      "opposition_persona": "ai_risk_bear",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01PVPHXxfq6z4sQFm2nfF9UN', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government wins this debate through superior use of concrete financial evidence and more effective refutation of the Opposition\\'s claims.\\n\\n**Argument Quality and Evidence:**\\nThe Government consistently cited specific GitLab financial data to support their position, including:\\n- GitLab\\'s 2026 earnings calls showing \"NRR mix from seat expansion stood out\" and \"performe...",
+      "duration_seconds": 192.28636980056763,
+      "total_words": 2524,
+      "total_tokens": 3490,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 482,
+          "token_count": 655,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to firmly reject the motion before us. The Government's position is clear: AI coding assistants will not reduce GitLab..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 483,
+          "token_count": 647,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to expose the fundamental flaw in the Prime Minister's rosy narrative. While the Government celebrates productivity gains, they will..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 342,
+          "token_count": 484,
+          "content_preview": "**The Opposition's Selective Data Manipulation Exposed**\n\nThe Leader of Opposition cherry-picks declining job postings while ignoring the fundamental driver: GitLab's own earnings data proves seat exp..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 421,
+          "token_count": 570,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Member of Opposition to demolish the Government's fantasy with hard economic reality. The Government Member's desperate attempt to spin GitLab's own admi..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 397,
+          "token_count": 577,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to deliver the decisive blow to the Opposition's crumbling case. The evidence is overwhelming: AI coding assistants are expanding, not c..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 399,
+          "token_count": 557,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the final, devastating blow to the Government's delusional case. The evidence is crystal clear: AI coding assistants represen..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
+      },
+      "opposition_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:51:06.064756",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_risk_bear",
+      "opposition_persona": "productivity_neutralist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_012EQzk2k5qzo7GfKj4fxqCd', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and logically consistent argument that effectively leveraged GitLab\\'s own financial documents and statements to support their position.\\n\\n**Argument Quality and Evidence:**\\nThe Government presented superior evidence by using GitLab\\'s own words against them. Their most powerful arguments came from GitLab\\'s conference transcri...",
+      "duration_seconds": 177.2057650089264,
+      "total_words": 2118,
+      "total_tokens": 2971,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 405,
+          "token_count": 537,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that AI coding assistants will fundamentally undermine GitLab's seat-based revenue model, creating an existen..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 320,
+          "token_count": 437,
+          "content_preview": "**The Government's Historical Analogy is Fundamentally Flawed**\n\nThe Prime Minister's comparison to industrial automation misses a crucial distinction: software development is not manufacturing. Unlik..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 322,
+          "token_count": 456,
+          "content_preview": "**The Financial Evidence is Damning**\n\nThe Opposition's rosy narrative crumbles under scrutiny of GitLab's own financial disclosures. GitLab's 2023 Q4 10-Q filing reveals they already conducted a \"red..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 274,
+          "token_count": 412,
+          "content_preview": "**The Government Ignores GitLab's Strategic Success**\n\nThe Government member conveniently omits that GitLab's 2026 earnings show their AWS partnership with HFM demonstrates exactly what we predicted\u2014c..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 397,
+          "token_count": 549,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why this House must support our motion that AI coding assistants will devastate GitLab's seat-based revenue model.\n\n**The..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 400,
+          "token_count": 580,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to demonstrate why the Opposition must prevail in this critical debate about GitLab's future in the AI era.\n\n**The Government's Fundamen..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
+      },
+      "opposition_rating": {
+        "persona_id": "productivity_neutralist",
+        "debate_name": "ai_existential",
+        "rating": 1461.58,
+        "games_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "win_rate": 0.375
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:54:19.381120",
+      "debate_name": "duo",
+      "government_persona": "pricing_power_bull",
+      "opposition_persona": "bundling_strategist",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01321aVPva6fYELr3TAqPDtf', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government wins this debate through superior use of concrete financial evidence and more effective refutation of the Opposition\\'s arguments.\\n\\n**Argument Quality and Evidence:**\\nThe Government consistently cited specific financial data from GitLab\\'s earnings calls and transcripts to support their position. Key evidence included:\\n- CFO Brian Robins\\' confirmation of \"s...",
+      "duration_seconds": 191.29227495193481,
+      "total_words": 2228,
+      "total_tokens": 3044,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 395,
+          "token_count": 506,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to open the case for the Government on a proposition that will fundamentally reshape how we view enterprise software m..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 400,
+          "token_count": 536,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of the Opposition to fundamentally challenge the Government's misguided focus on standalone ARR expansion and present a superior strategic framewo..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 337,
+          "token_count": 472,
+          "content_preview": "**The Opposition fundamentally misunderstands modern software economics!** While they cling to outdated bundling theories, the financial evidence proves GitLab Duo will drive material ARPU expansion t..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 332,
+          "token_count": 466,
+          "content_preview": "**The Government's case collapses when confronted with GitLab's actual financial trajectory and strategic reality.**\n\n**First, the retention economics argument is mathematically superior.** According ..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 404,
+          "token_count": 560,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government's case is unassailable: **GitLab Duo and Ultimate will materially increase ARR per user through proven..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 360,
+          "token_count": 504,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to crystallize why the Opposition must prevail: **GitLab's Duo strategy represents a masterclass in bundling economics that prioritizes ..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "pricing_power_bull",
+        "debate_name": "duo",
+        "rating": 1561.78,
+        "games_played": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 0.75
+      },
+      "opposition_rating": {
+        "persona_id": "bundling_strategist",
+        "debate_name": "duo",
+        "rating": 1471.65,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
+      }
+    },
+    {
+      "timestamp": "2025-11-10T22:57:25.147325",
+      "debate_name": "duo",
+      "government_persona": "bundling_strategist",
+      "opposition_persona": "monetization_skeptic",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01QuSYMDNZCCWzhrgQ19yJmn', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and cohesive argument that effectively leveraged financial evidence and strategic reasoning to support their position.\\n\\n**Argument Quality and Evidence:**\\nThe Government consistently presented stronger quantitative evidence. They effectively used GitLab\\'s 53% Ultimate tier growth, specific customer savings figures (\"$10-15 mi...",
+      "duration_seconds": 183.75307512283325,
+      "total_words": 2181,
+      "total_tokens": 3061,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 410,
+          "token_count": 532,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that GitLab's strategic bundling of Duo AI within Ultimate tier packages represents a masterclass in retentio..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 320,
+          "token_count": 462,
+          "content_preview": "**The Prime Minister's Bundling Delusion**\n\nThe Prime Minister fundamentally misunderstands the AI monetization crisis facing GitLab. While he celebrates Ultimate tier growth, he conveniently ignores ..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 320,
+          "token_count": 472,
+          "content_preview": "**The Opposition's Commoditization Myth Crumbles**\n\nThe Leader of Opposition peddles fear while ignoring GitLab's extraordinary financial performance. According to GitLab's 2025 Third Quarter Earnings..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 393,
+          "token_count": 553,
+          "content_preview": "**Mr. Speaker, The Government's Bundling Fantasy Exposed**\n\nThe Member of Government celebrates Ultimate's 53% growth while conveniently ignoring the damning evidence from GitLab's own earnings calls...."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 366,
+          "token_count": 518,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government's position is unassailable: GitLab's bundling strategy represents the evolution of enterprise software..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 372,
+          "token_count": 524,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to crystallize why the Opposition must prevail: GitLab's Duo AI represents a commoditization trap that will fundamentally cap their pric..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "bundling_strategist",
+        "debate_name": "duo",
+        "rating": 1471.65,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
+      },
+      "opposition_rating": {
+        "persona_id": "monetization_skeptic",
+        "debate_name": "duo",
+        "rating": 1450.51,
+        "games_played": 4,
+        "wins": 1,
+        "losses": 3,
+        "win_rate": 0.25
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:00:38.648471",
+      "debate_name": "duo",
+      "government_persona": "pricing_power_bull",
+      "opposition_persona": "adoption_curve_analyst",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01D8C2nBVCW4KZFypq8EDg2F', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition delivered a more compelling and evidence-based case that effectively dismantled the Government\\'s overly optimistic projections through superior use of GitLab\\'s own financial data and a more realistic understanding of enterprise adoption patterns.\\n\\n**Strength of Arguments and Evidence:**\\nThe Opposition consistently cited specific, damaging quotes from GitLab...",
+      "duration_seconds": 191.49303579330444,
+      "total_words": 2073,
+      "total_tokens": 2999,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 374,
+          "token_count": 494,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to open the case for the Government on a proposition that will fundamentally reshape how we view enterprise software m..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 353,
+          "token_count": 539,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as Leader of Opposition to challenge the Government's overly optimistic projections with hard financial reality. The Prime Minister's case crumbles under sc..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 324,
+          "token_count": 465,
+          "content_preview": "**The Opposition Leader fundamentally misrepresents GitLab's strategic positioning.** The 2026 First Quarter Earnings Call reveals GitLab's deliberate integration strategy: embedding Duo into Premium ..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 265,
+          "token_count": 406,
+          "content_preview": "**The Government's Member has just proven our case with their own citations!** The 2026 Second Quarter Earnings Call reveals GitLab is \"improving training enablement efforts, particularly around AI\"\u2014c..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 380,
+          "token_count": 544,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail in this debate. The Opposition has inadvertently strengthened our case through their own ..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 377,
+          "token_count": 551,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's fantastical projections. The financial evidence overwhelmingly supports the Opposition'..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "pricing_power_bull",
+        "debate_name": "duo",
+        "rating": 1561.78,
+        "games_played": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 0.75
+      },
+      "opposition_rating": {
+        "persona_id": "adoption_curve_analyst",
+        "debate_name": "duo",
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:03:32.064227",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_augmentation_bull",
+      "opposition_persona": "integration_pragmatist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01XQR8cD4YNBwNy5tEJNUxLu', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition won this debate through superior strategic framing, more sophisticated use of evidence, and a more compelling vision of GitLab\\'s future business model.\\n\\n**Argument Quality and Evidence Usage:**\\nThe Opposition demonstrated superior analytical depth by correctly identifying GitLab\\'s strategic pivot from traditional seat-based models to platform orchestration....",
+      "duration_seconds": 171.40692806243896,
+      "total_words": 2256,
+      "total_tokens": 3243,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 451,
+          "token_count": 618,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to firmly reject the motion before us. The Government's position is clear: AI coding assistants will not reduce GitLab..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 393,
+          "token_count": 563,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Leader of Opposition, I rise to fundamentally reframe this debate. The Prime Minister misses the forest for the trees\u2014GitLab's true value lies not in defending ..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 322,
+          "token_count": 469,
+          "content_preview": "**The Financial Evidence Confirms Market Expansion**\n\nThe Opposition's platform narrative crumbles under financial scrutiny. GitLab's 2026 First Quarter Earnings reveal they \"performed better on dolla..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 323,
+          "token_count": 480,
+          "content_preview": "**The Integration Tax Model Transcends Seat Economics**\n\nThe Government Member's financial cherry-picking ignores GitLab's strategic pivot. The 2026 Second Quarter Earnings reveal the real story: HFM'..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 403,
+          "token_count": 559,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail in this debate. The Opposition's platform narrative collapses under the weight of empiric..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 364,
+          "token_count": 554,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver our closing argument: the Opposition must prevail because we understand GitLab's true strategic imperative\u2014**ecosystem orches..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
+      },
+      "opposition_rating": {
+        "persona_id": "integration_pragmatist",
+        "debate_name": "ai_existential",
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:06:30.523332",
+      "debate_name": "duo",
+      "government_persona": "bundling_strategist",
+      "opposition_persona": "pricing_power_bull",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_018dxHyG9udX5pqcaL78HdQu', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition delivered a more compelling and evidence-based case that systematically dismantled the Government\\'s arguments through superior use of GitLab\\'s own financial disclosures and executive statements.\\n\\n**Decisive Evidence Usage:**\\nThe Opposition\\'s most devastating blow came from citing CFO Brian Robins\\' admission that \"I can\\'t think of one instance where we ac...",
+      "duration_seconds": 176.4321689605713,
+      "total_words": 2141,
+      "total_tokens": 2916,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 410,
+          "token_count": 532,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that GitLab's strategic bundling of Duo AI within Ultimate tier packages represents a masterclass in retentio..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 357,
+          "token_count": 484,
+          "content_preview": "**The Reality Check**\n\nThe Prime Minister paints a fantasy of seamless AI monetization, but the evidence tells a starkly different story. GitLab's own 2024 Q3 10-Q filing explicitly warns of \"price co..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 299,
+          "token_count": 413,
+          "content_preview": "**The Opposition's Selective Amnesia**\n\nThe Leader of Opposition cherry-picks warnings about price concessions while ignoring GitLab's proven track record of maintaining Dollar-Based Net Retention Rat..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 337,
+          "token_count": 473,
+          "content_preview": "**The Duo Delusion Exposed**\n\nThe Government's confidence crumbles when confronted with GitLab's own admissions. According to GitLab's 2025 Q1 Conference Transcript, CFO Brian Robins confessed: \"I can..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 378,
+          "token_count": 525,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why this motion must carry - the Opposition's arguments have been systematically dismantled by GitLab's own financial evi..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 360,
+          "token_count": 489,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to this Government's fantasy - GitLab's own CFO has already confessed their Duo strategy's fundamental fail..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "bundling_strategist",
+        "debate_name": "duo",
+        "rating": 1471.65,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
+      },
+      "opposition_rating": {
+        "persona_id": "pricing_power_bull",
+        "debate_name": "duo",
+        "rating": 1561.78,
+        "games_played": 8,
+        "wins": 6,
+        "losses": 2,
+        "win_rate": 0.75
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:09:41.856274",
+      "debate_name": "duo",
+      "government_persona": "bundling_strategist",
+      "opposition_persona": "adoption_curve_analyst",
+      "topic": "This house believes that GitLab\u2019s Duo AI suite and Ultimate tier will materially increase ARR per user",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01DEpnhfgbM3M6qnASNfGcw6', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition won this debate through superior use of specific evidence and more credible interpretation of GitLab\\'s financial disclosures, while effectively dismantling the Government\\'s core arguments.\\n\\n**Strength of Arguments and Evidence:**\\nThe Opposition consistently cited precise, damaging quotes from GitLab\\'s earnings calls, particularly CFO Brian Robins\\' admissi...",
+      "duration_seconds": 189.30052399635315,
+      "total_words": 2445,
+      "total_tokens": 3388,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 395,
+          "token_count": 528,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that GitLab's strategic bundling of Duo AI within Ultimate tier packages represents a masterclass in retentio..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 375,
+          "token_count": 505,
+          "content_preview": "**The Reality of AI Adoption Curves**\n\nWhile the Prime Minister paints a rosy picture of immediate transformation, the evidence from GitLab's own earnings calls reveals a more nuanced reality. Accordi..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 366,
+          "token_count": 525,
+          "content_preview": "**The Financial Evidence Speaks Volumes**\n\nThe Opposition's 4-5% projection fundamentally misunderstands GitLab's bundling economics. According to GitLab's 2025 First Quarter Conference, CFO Brian Rob..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 429,
+          "token_count": 607,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nThe Government's case crumbles under the weight of GitLab's own financial disclosures. While they paint pictures of immediate transformation, the evidence reveals ..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 442,
+          "token_count": 619,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government's case is unassailable: GitLab's bundling strategy creates retention economics that will materially in..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 438,
+          "token_count": 604,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's case. The evidence from GitLab's own financial disclosures proves beyond doubt that Duo..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "bundling_strategist",
+        "debate_name": "duo",
+        "rating": 1471.65,
+        "games_played": 7,
+        "wins": 3,
+        "losses": 4,
+        "win_rate": 0.429
+      },
+      "opposition_rating": {
+        "persona_id": "adoption_curve_analyst",
+        "debate_name": "duo",
+        "rating": 1516.06,
+        "games_played": 9,
+        "wins": 4,
+        "losses": 5,
+        "win_rate": 0.444
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:12:53.208673",
+      "debate_name": "growth",
+      "government_persona": "macro_neutral",
+      "opposition_persona": "growth_bull",
+      "topic": "This house believes that GitLab\u2019s FY26\u2013FY27 reacceleration is sustainable rather than cyclical",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01XQMQo8SSzvrxkFfuaAEyxx', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition delivered a more compelling and evidence-based argument that GitLab\\'s reacceleration is structural rather than cyclical. Here\\'s my detailed analysis:\\n\\n**1. Strength of Arguments and Evidence:**\\nThe Opposition consistently provided more specific, quantifiable evidence from GitLab\\'s financial documents. They cited concrete data points like Ultimate tier achi...",
+      "duration_seconds": 189.34045004844666,
+      "total_words": 2336,
+      "total_tokens": 3347,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 417,
+          "token_count": 573,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to defend the proposition that GitLab's FY26\u2013FY27 reacceleration represents sustainable growth, not merely cyclical re..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 322,
+          "token_count": 481,
+          "content_preview": "**The Structural Transformation Evidence**\n\nThe Government fundamentally misunderstands GitLab's evolution. This is not macro-dependency\u2014it's structural transformation. According to GitLab's Q3 2025 e..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 404,
+          "token_count": 579,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nI rise as a Member of Government to reinforce our position with compelling financial evidence. The Opposition fundamentally misreads the data\u2014GitLab's trajectory r..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 371,
+          "token_count": 528,
+          "content_preview": "**The Government's Cyclical Delusion Exposed**\n\nThe Government's macro-dependency argument crumbles under scrutiny of GitLab's actual financial performance. Their selective citation of federal spendin..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 405,
+          "token_count": 557,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why Government must prevail in this debate. The evidence overwhelmingly demonstrates that GitLab's trajectory remains fun..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 417,
+          "token_count": 629,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to Government's crumbling macro-dependency argument. The financial evidence overwhelmingly proves GitLab's ..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "macro_neutral",
+        "debate_name": "growth",
+        "rating": 1454.1,
+        "games_played": 4,
+        "wins": 1,
+        "losses": 3,
+        "win_rate": 0.25
+      },
+      "opposition_rating": {
+        "persona_id": "growth_bull",
+        "debate_name": "growth",
+        "rating": 1543.61,
+        "games_played": 4,
+        "wins": 3,
+        "losses": 1,
+        "win_rate": 0.75
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:16:05.914068",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_augmentation_bull",
+      "opposition_persona": "integration_pragmatist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Government",
+      "reasoning": "Message(id='msg_01JSRnfwZKPU87YNN8GKveUW', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based argument that effectively countered the Opposition\\'s central thesis. Here\\'s my detailed analysis:\\n\\n**1. Argument Quality and Evidence Usage:**\\nThe Government consistently provided stronger empirical support for their position. They effectively used GitLab\\'s financial data, citing specific metrics like \"90...",
+      "duration_seconds": 190.6722481250763,
+      "total_words": 2308,
+      "total_tokens": 3273,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 451,
+          "token_count": 618,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to firmly reject the motion before us. The Government's position is clear: AI coding assistants will not reduce GitLab..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 393,
+          "token_count": 563,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Leader of Opposition, I rise to fundamentally reframe this debate. The Prime Minister misses the forest for the trees\u2014GitLab's true value lies not in defending ..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 306,
+          "token_count": 450,
+          "content_preview": "**The Financial Evidence Confirms Market Expansion**\n\nThe Opposition's platform narrative crumbles under financial scrutiny. GitLab's 2026 First Quarter Earnings reveal they \"performed better on dolla..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 391,
+          "token_count": 575,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs a Member of Opposition, I rise to expose the Government's fundamental misunderstanding of GitLab's strategic pivot. The financial evidence reveals not seat mult..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 392,
+          "token_count": 546,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to deliver the decisive blow to this misguided motion. The Opposition's platform narrative collapses under the weight of empirical evide..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 375,
+          "token_count": 521,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver our closing argument: the Opposition must win because we recognize GitLab's **true competitive advantage** lies in ecosystem ..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
+      },
+      "opposition_rating": {
+        "persona_id": "integration_pragmatist",
+        "debate_name": "ai_existential",
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:19:12.623147",
+      "debate_name": "ai_existential",
+      "government_persona": "ai_augmentation_bull",
+      "opposition_persona": "integration_pragmatist",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01Ln3At8u9VWQwkmtiPzusqd', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based case that effectively countered the Opposition\\'s arguments while maintaining logical consistency throughout their speeches.\\n\\n**Argument Quality and Evidence Usage:**\\nThe Government consistently leveraged concrete financial data from GitLab\\'s earnings calls and conference transcripts to support their positi...",
+      "duration_seconds": 184.6699469089508,
+      "total_words": 2281,
+      "total_tokens": 3246,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 482,
+          "token_count": 655,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to firmly reject the motion before us. The Government's position is clear: AI coding assistants will not reduce GitLab..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 325,
+          "token_count": 481,
+          "content_preview": "**Mr. Speaker,** the Prime Minister misses the revolution happening beneath his feet. GitLab's own 2025 conference transcripts reveal their true strategy: **agent-first workflow integration**. They're..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 345,
+          "token_count": 496,
+          "content_preview": "**The Financial Evidence is Overwhelming**\n\nThe Opposition Leader speaks of \"workflow transformation,\" but GitLab's own 2025 Conference Transcript reveals the truth: their seat-based model delivers \"9..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 397,
+          "token_count": 571,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nThe Government Member fundamentally misreads GitLab's own strategic pivot. While celebrating \"90% gross margins,\" they ignore that GitLab's 2026 First Quarter Earn..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 378,
+          "token_count": 529,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to reinforce why the Government's position is unassailable: AI coding assistants will exponentially expand GitLab's seat-based revenue o..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 354,
+          "token_count": 514,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to crystallize why the Opposition must prevail: GitLab's own strategic pivot proves that **integration velocity**, not seat multiplicati..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "ai_augmentation_bull",
+        "debate_name": "ai_existential",
+        "rating": 1495.02,
+        "games_played": 13,
+        "wins": 6,
+        "losses": 7,
+        "win_rate": 0.462
+      },
+      "opposition_rating": {
+        "persona_id": "integration_pragmatist",
+        "debate_name": "ai_existential",
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:22:14.472640",
+      "debate_name": "growth",
+      "government_persona": "growth_skeptic",
+      "opposition_persona": "saas_realist",
+      "topic": "This house believes that GitLab\u2019s FY26\u2013FY27 reacceleration is sustainable rather than cyclical",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01FQ8QdTz8e4KPvgaxhYQypN', content=[TextBlock(citations=None, text='WINNER: Opposition\\n\\nREASONING: \\n\\nThe Opposition wins this debate through superior argument construction, more effective use of evidence, and stronger logical consistency throughout their case.\\n\\n**Argument Quality and Evidence Usage:**\\nThe Opposition demonstrates superior analytical depth by using the Government\\'s own cited data to support their thesis. Most compellingly, they highlight that GitLab\\'s grow...",
+      "duration_seconds": 179.8311631679535,
+      "total_words": 2095,
+      "total_tokens": 3267,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 383,
+          "token_count": 586,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to defend the proposition that GitLab's FY26-FY27 reacceleration represents sustainable growth, not a cyclical blip. T..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 374,
+          "token_count": 575,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Leader of Opposition, I rise to challenge the Prime Minister's rosy narrative with the sobering reality of SaaS maturation. While the Government celebrates GitL..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 304,
+          "token_count": 456,
+          "content_preview": "**The Opposition Leader's attempt to reframe GitLab's acceleration as mere \"maturation\" ignores the fundamental drivers of sustainable growth that our financial evidence clearly demonstrates.**\n\n**Fir..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 352,
+          "token_count": 566,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs a Member of Opposition, I must expose the fundamental flaws in the Government's reacceleration fantasy by examining what their own evidence actually reveals abo..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 338,
+          "token_count": 530,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I must crystallize why the Government's case for sustainable reacceleration decisively defeats the Opposition's cyclical narrative through thre..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 344,
+          "token_count": 554,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I must crystallize why the Opposition decisively wins this debate by exposing the Government's fundamental misunderstanding of sustainable SaaS..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "growth_skeptic",
+        "debate_name": "growth",
+        "rating": 1456.05,
         "games_played": 6,
         "wins": 2,
         "losses": 4,
         "win_rate": 0.333
       },
       "opposition_rating": {
-        "persona_id": "ai_augmentation_bull",
+        "persona_id": "saas_realist",
+        "debate_name": "growth",
+        "rating": 1546.25,
+        "games_played": 4,
+        "wins": 3,
+        "losses": 1,
+        "win_rate": 0.75
+      }
+    },
+    {
+      "timestamp": "2025-11-10T23:25:23.700070",
+      "debate_name": "ai_existential",
+      "government_persona": "integration_pragmatist",
+      "opposition_persona": "ai_risk_bear",
+      "topic": "This house believes that AI coding assistants will reduce GitLab's seat-based revenue opportunity",
+      "winner": "Opposition",
+      "reasoning": "Message(id='msg_01Jd5gKzrK8UutA5pE5z6aea', content=[TextBlock(citations=None, text='WINNER: Government\\n\\nREASONING: \\n\\nThe Government team delivered a more compelling and evidence-based case that effectively countered the Opposition\\'s core arguments. Here\\'s my detailed analysis:\\n\\n**1. Argument Quality and Evidence Usage:**\\nThe Government consistently leveraged specific financial data from GitLab\\'s earnings calls and conference transcripts to support their position. Their use of the HFM c...",
+      "duration_seconds": 187.21497297286987,
+      "total_words": 2269,
+      "total_tokens": 3164,
+      "government_speeches": 3,
+      "opposition_speeches": 3,
+      "speeches": [
+        {
+          "speaker": "Prime Minister",
+          "word_count": 420,
+          "token_count": 578,
+          "content_preview": "**Mr. Speaker, Honorable Members of this House,**\n\nI rise today as Prime Minister to argue that this motion fundamentally misunderstands the strategic reality facing GitLab. While the Opposition may f..."
+        },
+        {
+          "speaker": "Leader of Opposition",
+          "word_count": 354,
+          "token_count": 490,
+          "content_preview": "**The Labor Market Reality**\n\nMr. Speaker, while the Prime Minister paints pictures of \"workflow stickiness,\" external labor data tells a devastating story. Revelio Labs reports a 23% decline in softw..."
+        },
+        {
+          "speaker": "Member of Government",
+          "word_count": 361,
+          "token_count": 504,
+          "content_preview": "**The Financial Evidence is Overwhelming**\n\nMr. Speaker, the Opposition's seat reduction theory crumbles when confronted with GitLab's actual financial performance. According to GitLab's 2025 Third Qu..."
+        },
+        {
+          "speaker": "Member of Opposition",
+          "word_count": 337,
+          "token_count": 483,
+          "content_preview": "**The Automation Admission**\n\nMr. Speaker, the Government's own evidence condemns their case! GitLab's 2025 First Quarter Conference Transcript explicitly states their agents will \"spend my precious h..."
+        },
+        {
+          "speaker": "Government Whip",
+          "word_count": 423,
+          "token_count": 584,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Government Whip, I rise to crystallize why the Government must prevail on this motion. The Opposition's case collapses under the weight of GitLab's own financia..."
+        },
+        {
+          "speaker": "Opposition Whip",
+          "word_count": 374,
+          "token_count": 525,
+          "content_preview": "**Mr. Speaker, Honorable Members,**\n\nAs Opposition Whip, I rise to deliver the decisive blow to the Government's crumbling case. The evidence overwhelmingly demonstrates that AI coding assistants will..."
+        }
+      ],
+      "error": null,
+      "government_rating": {
+        "persona_id": "integration_pragmatist",
         "debate_name": "ai_existential",
-        "rating": 1536.53,
-        "games_played": 7,
-        "wins": 4,
-        "losses": 3,
-        "win_rate": 0.571
+        "rating": 1546.45,
+        "games_played": 11,
+        "wins": 7,
+        "losses": 4,
+        "win_rate": 0.636
+      },
+      "opposition_rating": {
+        "persona_id": "ai_risk_bear",
+        "debate_name": "ai_existential",
+        "rating": 1492.25,
+        "games_played": 12,
+        "wins": 6,
+        "losses": 6,
+        "win_rate": 0.5
       }
     }
   ]
